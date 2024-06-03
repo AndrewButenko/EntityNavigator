@@ -4,7 +4,8 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@fluentui/react": "^8.118.3",
+    "@fluentui/react-components": "^9.53.0",
+    "@fluentui/react-icons": "^2.0.240",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
